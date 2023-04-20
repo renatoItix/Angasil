@@ -1,0 +1,24 @@
+..Todos
+Folha Angasil
+Folha GranoBello
+EnergiaEletrica
+Agua
+Telefone
+Trigo
+SeguroPredial
+Reciclagem
+Mecanicos
+ManutencaoMoinho
+ManutencaoPredial
+DespesasDiversas
+Combustivel
+Chapas
+Pedagio
+Multas
+Motoristas 
+Caminhao SP
+Joaozinho
+Mario
+China
+Valdir
+Vendas

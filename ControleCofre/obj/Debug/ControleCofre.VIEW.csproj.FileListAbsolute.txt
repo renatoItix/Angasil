@@ -1,0 +1,642 @@
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\obj\Debug\ControleCofre.VIEW.csprojAssemblyReference.cache
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmPrincipal.resources
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\obj\Debug\ControleCofre.Properties.Resources.resources
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\obj\Debug\ControleCofre.VIEW.csproj.GenerateResource.cache
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\obj\Debug\ControleCofre.VIEW.csproj.CoreCompileInputs.cache
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\ControleCofre.exe.config
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\ControleCofre.exe
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\ControleCofre.pdb
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\obj\Debug\ControleCofre.exe
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\obj\Debug\ControleCofre.pdb
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmCadCliFor.resources
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmMovimento.resources
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DAL.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DTO.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DAL.pdb
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DAL.dll.config
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DTO.pdb
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\obj\Debug\ControleCofre.VIEW.csproj.CopyComplete
+\\Server\gerencia\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\bin\Debug\ControleCofre.exe.config
+\\Server\gerencia\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\bin\Debug\ControleCofre.exe
+\\Server\gerencia\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\bin\Debug\ControleCofre.pdb
+\\Server\gerencia\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DAL.dll
+\\Server\gerencia\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DTO.dll
+\\Server\gerencia\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DAL.pdb
+\\Server\gerencia\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DAL.dll.config
+\\Server\gerencia\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DTO.pdb
+\\Server\gerencia\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\obj\Debug\ControleCofre.VIEW.csprojResolveAssemblyReference.cache
+\\Server\gerencia\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmAbrirCaixa.resources
+\\Server\gerencia\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmCadCliFor.resources
+\\Server\gerencia\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmMovimento.resources
+\\Server\gerencia\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmPrincipal.resources
+\\Server\gerencia\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\obj\Debug\ControleCofre.Properties.Resources.resources
+\\Server\gerencia\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\obj\Debug\ControleCofre.VIEW.csproj.GenerateResource.Cache
+\\Server\gerencia\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\obj\Debug\ControleCofre.VIEW.csproj.CoreCompileInputs.cache
+\\Server\gerencia\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\obj\Debug\ControleCofre.exe
+\\Server\gerencia\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\obj\Debug\ControleCofre.pdb
+R:\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\bin\Debug\ControleCofre.exe.config
+R:\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\bin\Debug\ControleCofre.exe
+R:\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\bin\Debug\ControleCofre.pdb
+R:\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DAL.dll
+R:\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DTO.dll
+R:\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DAL.pdb
+R:\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DAL.dll.config
+R:\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DTO.pdb
+R:\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\obj\Debug\ControleCofre.VIEW.csprojResolveAssemblyReference.cache
+R:\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmAbrirCaixa.resources
+R:\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmCadCliFor.resources
+R:\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmMovimento.resources
+R:\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmPrincipal.resources
+R:\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\obj\Debug\ControleCofre.Properties.Resources.resources
+R:\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\obj\Debug\ControleCofre.VIEW.csproj.GenerateResource.Cache
+R:\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\obj\Debug\ControleCofre.VIEW.csproj.CoreCompileInputs.cache
+R:\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\obj\Debug\ControleCofre.exe
+R:\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre\obj\Debug\ControleCofre.pdb
+C:\Users\User\source\repos\ControleCofre\ControleCofre\bin\Debug\ControleCofre.exe.config
+C:\Users\User\source\repos\ControleCofre\ControleCofre\bin\Debug\ControleCofre.exe
+C:\Users\User\source\repos\ControleCofre\ControleCofre\bin\Debug\ControleCofre.pdb
+C:\Users\User\source\repos\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DAL.dll
+C:\Users\User\source\repos\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DTO.dll
+C:\Users\User\source\repos\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DAL.pdb
+C:\Users\User\source\repos\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DAL.dll.config
+C:\Users\User\source\repos\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DTO.pdb
+C:\Users\User\source\repos\ControleCofre\ControleCofre\obj\Debug\ControleCofre.VIEW.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmAbrirCaixa.resources
+C:\Users\User\source\repos\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmCadCliFor.resources
+C:\Users\User\source\repos\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmMovimento.resources
+C:\Users\User\source\repos\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmPrincipal.resources
+C:\Users\User\source\repos\ControleCofre\ControleCofre\obj\Debug\ControleCofre.Properties.Resources.resources
+C:\Users\User\source\repos\ControleCofre\ControleCofre\obj\Debug\ControleCofre.VIEW.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\ControleCofre\ControleCofre\obj\Debug\ControleCofre.VIEW.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ControleCofre\ControleCofre\obj\Debug\ControleCofre.exe
+C:\Users\User\source\repos\ControleCofre\ControleCofre\obj\Debug\ControleCofre.pdb
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmSelCliFor.resources
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmUsuario.resources
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmAbrirCaixa.resources
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\Caixa.accdb
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\Relatorios.exe
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\Relatorios.pdb
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\Relatorios.exe.config
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre\bin\Debug\Caixa.accdb
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre\bin\Debug\ControleCofre.exe.config
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre\bin\Debug\ControleCofre.exe
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre\bin\Debug\ControleCofre.pdb
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DAL.dll
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DTO.dll
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre\bin\Debug\Relatorios.exe
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DAL.pdb
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DAL.dll.config
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DTO.pdb
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre\bin\Debug\Relatorios.pdb
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre\bin\Debug\Relatorios.exe.config
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre\obj\Debug\ControleCofre.VIEW.csprojAssemblyReference.cache
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmSelCliFor.resources
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmAbrirCaixa.resources
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmUsuario.resources
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmCadCliFor.resources
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmMovimento.resources
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmPrincipal.resources
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre\obj\Debug\ControleCofre.Properties.Resources.resources
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre\obj\Debug\ControleCofre.VIEW.csproj.GenerateResource.cache
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre\obj\Debug\ControleCofre.VIEW.csproj.CoreCompileInputs.cache
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre\obj\Debug\ControleCofre.VIEW.csproj.CopyComplete
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre\obj\Debug\ControleCofre.exe
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre\obj\Debug\ControleCofre.pdb
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\cs\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\pl\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\tr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\cs\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\pl\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\tr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\cs\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\pl\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\tr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\Resources\logo_ANGASIL.jpg
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre\bin\Debug\Resources\cadeado icone 55x55.png
+C:\Users\HENRIQUE\Desktop\ControleCofre\ControleCofre\obj\Debug\ControleCofre.VIEW.csprojAssemblyReference.cache
+C:\Users\HENRIQUE\Desktop\ControleCofre\ControleCofre\obj\Debug\ControleCofre.exe
+C:\Users\HENRIQUE\Desktop\ControleCofre\ControleCofre\obj\Debug\ControleCofre.pdb
+C:\Workspace\ControleCofre\ControleCofre\obj\Debug\ControleCofre.VIEW.csprojAssemblyReference.cache
+C:\Workspace\ControleCofre\ControleCofre\obj\Debug\ControleCofre.exe
+C:\Workspace\ControleCofre\ControleCofre\obj\Debug\ControleCofre.pdb
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\Caixa.accdb
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\Resources\logo_ANGASIL.jpg
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\Resources\cadeado icone 55x55.png
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\ControleCofre.exe.config
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\ControleCofre.exe
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\ControleCofre.pdb
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DAL.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DTO.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\Relatorios.exe
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DAL.pdb
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DAL.dll.config
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DTO.pdb
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\Relatorios.pdb
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\Relatorios.exe.config
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmSelCliFor.resources
+C:\Workspace\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmAbrirCaixa.resources
+C:\Workspace\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmUsuario.resources
+C:\Workspace\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmCadCliFor.resources
+C:\Workspace\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmMovimento.resources
+C:\Workspace\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmPrincipal.resources
+C:\Workspace\ControleCofre\ControleCofre\obj\Debug\ControleCofre.Properties.Resources.resources
+C:\Workspace\ControleCofre\ControleCofre\obj\Debug\ControleCofre.VIEW.csproj.GenerateResource.cache
+C:\Workspace\ControleCofre\ControleCofre\obj\Debug\ControleCofre.VIEW.csproj.CoreCompileInputs.cache
+C:\Workspace\ControleCofre\ControleCofre\obj\Debug\ControleCofre.VIEW.csproj.CopyComplete
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\Report1.rdlc
+C:\Workspace\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmReciboMov.resources
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\EnvDTE.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\stdole.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\Microsoft.MSXML.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Workspace\ControleCofre\ControleCofre\bin\Debug\Report2.rdlc
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\Caixa.accdb
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\Report1.rdlc
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\Report2.rdlc
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\Resources\logo_ANGASIL.jpg
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\Resources\cadeado icone 55x55.png
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\ControleCofre.exe.config
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\ControleCofre.exe
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\ControleCofre.pdb
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DAL.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DTO.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\Relatorios.exe
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\EnvDTE.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\stdole.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\Microsoft.MSXML.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DAL.pdb
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DAL.dll.config
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\ControleCofre.DTO.pdb
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\Relatorios.pdb
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\Relatorios.exe.config
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\obj\Debug\ControleCofre.VIEW.csprojAssemblyReference.cache
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmSelCliFor.resources
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmAbrirCaixa.resources
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmReciboMov.resources
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmUsuario.resources
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmCadCliFor.resources
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmMovimento.resources
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmPrincipal.resources
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\obj\Debug\ControleCofre.Properties.Resources.resources
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\obj\Debug\ControleCofre.VIEW.csproj.GenerateResource.cache
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\obj\Debug\ControleCofre.VIEW.csproj.CoreCompileInputs.cache
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\obj\Debug\ControleCofre.VIEW.csproj.CopyComplete
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\obj\Debug\ControleCofre.exe
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\obj\Debug\ControleCofre.pdb
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\obj\Debug\ControleCofre.frmFecharCaixa.resources
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre\bin\Debug\ArqCentroCusto.txt
+X:\ControleCofreFonte\ControleCofre\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\Caixa.accdb
+X:\ControleCofreFonte\ControleCofre\bin\Debug\Report1.rdlc
+X:\ControleCofreFonte\ControleCofre\bin\Debug\Report2.rdlc
+X:\ControleCofreFonte\ControleCofre\bin\Debug\ArqCentroCusto.txt
+X:\ControleCofreFonte\ControleCofre\bin\Debug\Resources\logo_ANGASIL.jpg
+X:\ControleCofreFonte\ControleCofre\bin\Debug\Resources\cadeado icone 55x55.png
+X:\ControleCofreFonte\ControleCofre\bin\Debug\ControleCofre.exe.config
+X:\ControleCofreFonte\ControleCofre\bin\Debug\ControleCofre.exe
+X:\ControleCofreFonte\ControleCofre\bin\Debug\ControleCofre.pdb
+X:\ControleCofreFonte\ControleCofre\bin\Debug\ControleCofre.DAL.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\ControleCofre.DTO.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\Microsoft.ReportViewer.Common.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\Microsoft.ReportViewer.Design.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\Microsoft.SqlServer.Types.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\Relatorios.exe
+X:\ControleCofreFonte\ControleCofre\bin\Debug\EnvDTE.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\stdole.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\Microsoft.MSXML.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\ControleCofre.DAL.pdb
+X:\ControleCofreFonte\ControleCofre\bin\Debug\ControleCofre.DAL.dll.config
+X:\ControleCofreFonte\ControleCofre\bin\Debug\ControleCofre.DTO.pdb
+X:\ControleCofreFonte\ControleCofre\bin\Debug\Relatorios.pdb
+X:\ControleCofreFonte\ControleCofre\bin\Debug\Relatorios.exe.config
+X:\ControleCofreFonte\ControleCofre\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+X:\ControleCofreFonte\ControleCofre\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+X:\ControleCofreFonte\ControleCofre\obj\Debug\ControleCofre.VIEW.csprojAssemblyReference.cache
+X:\ControleCofreFonte\ControleCofre\obj\Debug\ControleCofre.frmSelCliFor.resources
+X:\ControleCofreFonte\ControleCofre\obj\Debug\ControleCofre.frmAbrirCaixa.resources
+X:\ControleCofreFonte\ControleCofre\obj\Debug\ControleCofre.frmFecharCaixa.resources
+X:\ControleCofreFonte\ControleCofre\obj\Debug\ControleCofre.frmReciboMov.resources
+X:\ControleCofreFonte\ControleCofre\obj\Debug\ControleCofre.frmUsuario.resources
+X:\ControleCofreFonte\ControleCofre\obj\Debug\ControleCofre.frmCadCliFor.resources
+X:\ControleCofreFonte\ControleCofre\obj\Debug\ControleCofre.frmMovimento.resources
+X:\ControleCofreFonte\ControleCofre\obj\Debug\ControleCofre.frmPrincipal.resources
+X:\ControleCofreFonte\ControleCofre\obj\Debug\ControleCofre.Properties.Resources.resources
+X:\ControleCofreFonte\ControleCofre\obj\Debug\ControleCofre.VIEW.csproj.GenerateResource.cache
+X:\ControleCofreFonte\ControleCofre\obj\Debug\ControleCofre.VIEW.csproj.CoreCompileInputs.cache
+X:\ControleCofreFonte\ControleCofre\obj\Debug\ControleCofre.VIEW.csproj.CopyComplete
+X:\ControleCofreFonte\ControleCofre\obj\Debug\ControleCofre.exe
+X:\ControleCofreFonte\ControleCofre\obj\Debug\ControleCofre.pdb
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\Caixa.accdb
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\Report1.rdlc
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\Report2.rdlc
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\ArqCentroCusto.txt
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\Resources\logo_ANGASIL.jpg
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\Resources\cadeado icone 55x55.png
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\ControleCofre.exe.config
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\ControleCofre.exe
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\ControleCofre.pdb
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\ControleCofre.DAL.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\ControleCofre.DTO.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\Relatorios.exe
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\EnvDTE.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\stdole.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\Microsoft.MSXML.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\ControleCofre.DAL.pdb
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\ControleCofre.DAL.dll.config
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\ControleCofre.DTO.pdb
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\Relatorios.pdb
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\Relatorios.exe.config
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\obj\Debug\ControleCofre.VIEW.csprojAssemblyReference.cache
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\obj\Debug\ControleCofre.frmSelCliFor.resources
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\obj\Debug\ControleCofre.frmAbrirCaixa.resources
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\obj\Debug\ControleCofre.frmFecharCaixa.resources
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\obj\Debug\ControleCofre.frmReciboMov.resources
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\obj\Debug\ControleCofre.frmUsuario.resources
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\obj\Debug\ControleCofre.frmCadCliFor.resources
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\obj\Debug\ControleCofre.frmMovimento.resources
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\obj\Debug\ControleCofre.frmPrincipal.resources
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\obj\Debug\ControleCofre.Properties.Resources.resources
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\obj\Debug\ControleCofre.VIEW.csproj.GenerateResource.cache
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\obj\Debug\ControleCofre.VIEW.csproj.CoreCompileInputs.cache
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\obj\Debug\ControleCofre.VIEW.csproj.CopyComplete
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\obj\Debug\ControleCofre.exe
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\obj\Debug\ControleCofre.pdb
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\obj\Debug\ControleCofre.frmContasPagar.resources
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\obj\Debug\ControleCofre.frmContaPagar.resources
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\obj\Debug\ControleCofre.frmContaQuitar.resources
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\Report3.rdlc
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\Report4.rdlc
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\bin\Debug\Report5.rdlc
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre\obj\Debug\ControleCofre.frmContasReceber.resources
+X:\BKP_ControleCofre\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\obj\Debug\ControleCofre.VIEW.csprojAssemblyReference.cache
+X:\BKP_ControleCofre\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\obj\Debug\ControleCofre.exe
+X:\BKP_ControleCofre\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\obj\Debug\ControleCofre.pdb
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\obj\Debug\ControleCofre.VIEW.csproj.AssemblyReference.cache
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\obj\Debug\ControleCofre.exe.config
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\obj\Debug\ControleCofre.frmSelCliFor.resources
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\obj\Debug\ControleCofre.frmAbrirCaixa.resources
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\obj\Debug\ControleCofre.frmContaPagar.resources
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\obj\Debug\ControleCofre.frmContaQuitar.resources
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\obj\Debug\ControleCofre.frmContasPagar.resources
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\obj\Debug\ControleCofre.frmContasReceber.resources
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\obj\Debug\ControleCofre.frmFecharCaixa.resources
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\obj\Debug\ControleCofre.frmReciboMov.resources
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\obj\Debug\ControleCofre.frmUsuario.resources
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\obj\Debug\ControleCofre.frmCadCliFor.resources
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\obj\Debug\ControleCofre.frmMovimento.resources
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\obj\Debug\ControleCofre.frmPrincipal.resources
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\obj\Debug\ControleCofre.Properties.Resources.resources
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\obj\Debug\ControleCofre.VIEW.csproj.GenerateResource.cache
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\obj\Debug\ControleCofre.VIEW.csproj.CoreCompileInputs.cache
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\obj\Debug\ControleCofre.exe
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\obj\Debug\ControleCofre.pdb
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\ArqCentroCusto.txt
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Resources\logo_ANGASIL.jpg
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Resources\cadeado icone 55x55.png
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\ControleCofre.exe.config
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\ControleCofre.exe
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\ControleCofre.pdb
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\ControleCofre.DAL.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\ControleCofre.DTO.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\EnvDTE.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\stdole.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\EnvDTE80.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\VSLangProj.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\VSLangProj80.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\VSLangProj2.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\ControleCofre.DAL.pdb
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\ControleCofre.DAL.dll.config
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\ControleCofre.DTO.pdb
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre\obj\Debug\ControleCofre.VIEW.csproj.CopyComplete

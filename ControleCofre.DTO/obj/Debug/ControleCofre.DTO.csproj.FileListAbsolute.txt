@@ -1,0 +1,144 @@
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre.DTO\bin\Debug\ControleCofre.DTO.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre.DTO\bin\Debug\ControleCofre.DTO.pdb
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.csproj.CoreCompileInputs.cache
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.dll
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.pdb
+\\Server\gerencia\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre.DTO\bin\Debug\ControleCofre.DTO.dll
+\\Server\gerencia\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre.DTO\bin\Debug\ControleCofre.DTO.pdb
+\\Server\gerencia\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.csprojResolveAssemblyReference.cache
+\\Server\gerencia\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.csproj.CoreCompileInputs.cache
+\\Server\gerencia\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.dll
+\\Server\gerencia\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.pdb
+R:\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre.DTO\bin\Debug\ControleCofre.DTO.dll
+R:\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre.DTO\bin\Debug\ControleCofre.DTO.pdb
+R:\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.csprojResolveAssemblyReference.cache
+R:\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.csproj.CoreCompileInputs.cache
+R:\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.dll
+R:\RENATO\CURSOS\BKP_SISTEMA_RENATO\BKP_CONTROLE_COFRE\BKP_ControleCofre_15.11.2018\ControleCofre\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.pdb
+C:\Users\FINANCEIRO\source\repos\ControleCofre\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.csprojAssemblyReference.cache
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre.DTO\bin\Debug\ControleCofre.DTO.dll
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre.DTO\bin\Debug\ControleCofre.DTO.pdb
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.csprojAssemblyReference.cache
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.csproj.CoreCompileInputs.cache
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.dll
+C:\Users\FINANCEIRO\Desktop\CONTROLE_COFRE_JOIN\ControleCofre\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.pdb
+C:\Users\HENRIQUE\Desktop\ControleCofre\ControleCofre.DTO\bin\Debug\ControleCofre.DTO.dll
+C:\Users\HENRIQUE\Desktop\ControleCofre\ControleCofre.DTO\bin\Debug\ControleCofre.DTO.pdb
+C:\Users\HENRIQUE\Desktop\ControleCofre\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.csprojAssemblyReference.cache
+C:\Users\HENRIQUE\Desktop\ControleCofre\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.csproj.CoreCompileInputs.cache
+C:\Users\HENRIQUE\Desktop\ControleCofre\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.dll
+C:\Users\HENRIQUE\Desktop\ControleCofre\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.pdb
+C:\Workspace\ControleCofre\ControleCofre.DTO\bin\Debug\ControleCofre.DTO.dll
+C:\Workspace\ControleCofre\ControleCofre.DTO\bin\Debug\ControleCofre.DTO.pdb
+C:\Workspace\ControleCofre\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.csproj.CoreCompileInputs.cache
+C:\Workspace\ControleCofre\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.dll
+C:\Workspace\ControleCofre\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.pdb
+C:\Workspace\ControleCofre\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.csprojAssemblyReference.cache
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre.DTO\bin\Debug\ControleCofre.DTO.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre.DTO\bin\Debug\ControleCofre.DTO.pdb
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.csproj.CoreCompileInputs.cache
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.dll
+C:\Users\FINANCEIRO\Desktop\ControleCofre\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.pdb
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre.DTO\bin\Debug\ControleCofre.DTO.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre.DTO\bin\Debug\ControleCofre.DTO.pdb
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.csprojAssemblyReference.cache
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.csproj.CoreCompileInputs.cache
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.dll
+C:\Users\FINANCEIRO\Desktop\ContasPagar\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.pdb
+X:\BKP_ControleCofre\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\ControleCofre.DTO.dll
+X:\BKP_ControleCofre\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\ControleCofre.DTO.pdb
+X:\BKP_ControleCofre\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.csprojAssemblyReference.cache
+X:\BKP_ControleCofre\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.csproj.CoreCompileInputs.cache
+X:\BKP_ControleCofre\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.dll
+X:\BKP_ControleCofre\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.pdb
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\ControleCofre.DTO.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\ControleCofre.DTO.pdb
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.csproj.AssemblyReference.cache
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.csproj.CoreCompileInputs.cache
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.pdb
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\EnvDTE.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\stdole.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\EnvDTE80.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\VSLangProj.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\VSLangProj80.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\VSLangProj2.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\ITIX\Documents\Visual Studio 2017\Projects\ContasPagar_22.04.19-UltimaVersao\ContasPagar\ControleCofre.DTO\obj\Debug\ControleCofre.DTO.csproj.CopyComplete

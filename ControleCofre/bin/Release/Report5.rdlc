@@ -1,0 +1,1496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <AutoRefresh>0</AutoRefresh>
+  <DataSources>
+    <DataSource Name="DataSet1Relat2">
+      <ConnectionProperties>
+        <DataProvider>System.Data.DataSet</DataProvider>
+        <ConnectString>/* Local Connection */</ConnectString>
+      </ConnectionProperties>
+      <rd:DataSourceID>2e9ef1b0-914c-448b-a29d-7e71e28d608e</rd:DataSourceID>
+    </DataSource>
+  </DataSources>
+  <DataSets>
+    <DataSet Name="DataSet1Relat2">
+      <Query>
+        <DataSourceName>DataSet1Relat2</DataSourceName>
+        <CommandText>/* Local Query */</CommandText>
+      </Query>
+      <Fields>
+        <Field Name="Expr2">
+          <DataField>Expr2</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="Nome_Cli">
+          <DataField>Nome_Cli</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Expr1">
+          <DataField>Expr1</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="Expr3">
+          <DataField>Expr3</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Expr4">
+          <DataField>Expr4</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Expr5">
+          <DataField>Expr5</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Expr6">
+          <DataField>Expr6</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Cod_ContaPagar">
+          <DataField>Cod_ContaPagar</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="Cod_Cli">
+          <DataField>Cod_Cli</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="NF">
+          <DataField>NF</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Descricao">
+          <DataField>Descricao</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Classificar_Empresa">
+          <DataField>Classificar_Empresa</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Centro_Custo">
+          <DataField>Centro_Custo</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Valor_Titulo">
+          <DataField>Valor_Titulo</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="Dat_Lanc">
+          <DataField>Dat_Lanc</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="Dat_Venc">
+          <DataField>Dat_Venc</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="Observacao">
+          <DataField>Observacao</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Flg_Situacao">
+          <DataField>Flg_Situacao</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Expr7">
+          <DataField>Expr7</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="Expr8">
+          <DataField>Expr8</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="Expr9">
+          <DataField>Expr9</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="Expr10">
+          <DataField>Expr10</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="Expr11">
+          <DataField>Expr11</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Expr12">
+          <DataField>Expr12</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Cod_ContaQuitada">
+          <DataField>Cod_ContaQuitada</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="Expr13">
+          <DataField>Expr13</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="Dat_Baixa">
+          <DataField>Dat_Baixa</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="For_Pagamento">
+          <DataField>For_Pagamento</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Valor_Juro">
+          <DataField>Valor_Juro</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="Valor_Desc">
+          <DataField>Valor_Desc</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="Valor_Pago">
+          <DataField>Valor_Pago</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="Num_Cheque">
+          <DataField>Num_Cheque</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="Expr14">
+          <DataField>Expr14</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="CPF">
+          <DataField>CPF</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="RG">
+          <DataField>RG</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+      </Fields>
+      <rd:DataSetInfo>
+        <rd:DataSetName>DataSet3</rd:DataSetName>
+        <rd:SchemaPath>C:\Users\FINANCEIRO\Desktop\ContasPagar\Relatorios\DataSet3.xsd</rd:SchemaPath>
+        <rd:TableName>RelContaQuitada</rd:TableName>
+        <rd:TableAdapterFillMethod>Fill</rd:TableAdapterFillMethod>
+        <rd:TableAdapterGetDataMethod>GetData</rd:TableAdapterGetDataMethod>
+        <rd:TableAdapterName>RelContaQuitadaTableAdapter</rd:TableAdapterName>
+      </rd:DataSetInfo>
+    </DataSet>
+  </DataSets>
+  <ReportSections>
+    <ReportSection>
+      <Body>
+        <ReportItems>
+          <Rectangle Name="Rectangle2">
+            <ReportItems>
+              <Image Name="logo3">
+                <Source>Embedded</Source>
+                <Value>logo_ANGASIL</Value>
+                <Sizing>FitProportional</Sizing>
+                <Top>0.09812cm</Top>
+                <Left>0.25267cm</Left>
+                <Height>1.95847cm</Height>
+                <Width>2.00271cm</Width>
+                <ToolTip>Logo Angasil</ToolTip>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                </Style>
+              </Image>
+              <Textbox Name="Textbox5">
+                <KeepTogether>true</KeepTogether>
+                <Paragraphs>
+                  <Paragraph>
+                    <TextRuns>
+                      <TextRun>
+                        <Value>Angasil</Value>
+                        <Style>
+                          <FontStyle>Italic</FontStyle>
+                          <FontSize>18pt</FontSize>
+                          <FontWeight>Bold</FontWeight>
+                          <Color>Blue</Color>
+                        </Style>
+                      </TextRun>
+                    </TextRuns>
+                    <Style />
+                  </Paragraph>
+                </Paragraphs>
+                <rd:DefaultName>Textbox1</rd:DefaultName>
+                <Top>0.41562cm</Top>
+                <Left>6.31163cm</Left>
+                <Height>0.89104cm</Height>
+                <Width>2.5cm</Width>
+                <ZIndex>1</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                  <PaddingLeft>2pt</PaddingLeft>
+                  <PaddingRight>2pt</PaddingRight>
+                  <PaddingTop>2pt</PaddingTop>
+                  <PaddingBottom>2pt</PaddingBottom>
+                </Style>
+              </Textbox>
+              <Textbox Name="Textbox6">
+                <KeepTogether>true</KeepTogether>
+                <Paragraphs>
+                  <Paragraph>
+                    <TextRuns>
+                      <TextRun>
+                        <Value>RECIBO</Value>
+                        <Style>
+                          <FontSize>16pt</FontSize>
+                          <FontWeight>Bold</FontWeight>
+                        </Style>
+                      </TextRun>
+                    </TextRuns>
+                    <Style />
+                  </Paragraph>
+                </Paragraphs>
+                <rd:DefaultName>Textbox1</rd:DefaultName>
+                <Top>0.32594cm</Top>
+                <Left>11.29967cm</Left>
+                <Height>0.89104cm</Height>
+                <Width>2.5cm</Width>
+                <ZIndex>2</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                  <PaddingLeft>2pt</PaddingLeft>
+                  <PaddingRight>2pt</PaddingRight>
+                  <PaddingTop>2pt</PaddingTop>
+                  <PaddingBottom>2pt</PaddingBottom>
+                </Style>
+              </Textbox>
+              <Textbox Name="Textbox28">
+                <CanGrow>true</CanGrow>
+                <KeepTogether>true</KeepTogether>
+                <Paragraphs>
+                  <Paragraph>
+                    <TextRuns>
+                      <TextRun>
+                        <Value>A IMPORTÂNCIA DE:</Value>
+                        <Style>
+                          <FontSize>9pt</FontSize>
+                        </Style>
+                      </TextRun>
+                    </TextRuns>
+                    <Style />
+                  </Paragraph>
+                </Paragraphs>
+                <rd:DefaultName>Textbox10</rd:DefaultName>
+                <Top>4.09685cm</Top>
+                <Left>0.25266cm</Left>
+                <Height>0.6cm</Height>
+                <Width>3.77cm</Width>
+                <ZIndex>3</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                  <PaddingLeft>2pt</PaddingLeft>
+                  <PaddingRight>2pt</PaddingRight>
+                  <PaddingTop>2pt</PaddingTop>
+                  <PaddingBottom>2pt</PaddingBottom>
+                </Style>
+              </Textbox>
+              <Tablix Name="Tablix23">
+                <TablixBody>
+                  <TablixColumns>
+                    <TablixColumn>
+                      <Width>3.36055cm</Width>
+                    </TablixColumn>
+                  </TablixColumns>
+                  <TablixRows>
+                    <TablixRow>
+                      <Height>0.6cm</Height>
+                      <TablixCells>
+                        <TablixCell>
+                          <CellContents>
+                            <Textbox Name="Credito21">
+                              <KeepTogether>true</KeepTogether>
+                              <Paragraphs>
+                                <Paragraph>
+                                  <TextRuns>
+                                    <TextRun>
+                                      <Value>=Fields!Valor_Pago.Value</Value>
+                                      <Style>
+                                        <FontSize>9pt</FontSize>
+                                        <Format>'R$' #,0.00</Format>
+                                      </Style>
+                                    </TextRun>
+                                  </TextRuns>
+                                  <Style>
+                                    <TextAlign>Center</TextAlign>
+                                  </Style>
+                                </Paragraph>
+                              </Paragraphs>
+                              <rd:DefaultName>Credito1</rd:DefaultName>
+                              <Style>
+                                <Border>
+                                  <Style>Solid</Style>
+                                </Border>
+                                <PaddingLeft>2pt</PaddingLeft>
+                                <PaddingRight>2pt</PaddingRight>
+                                <PaddingTop>2pt</PaddingTop>
+                                <PaddingBottom>2pt</PaddingBottom>
+                                <rd:FormatSymbolCulture>pt-BR</rd:FormatSymbolCulture>
+                              </Style>
+                            </Textbox>
+                          </CellContents>
+                        </TablixCell>
+                      </TablixCells>
+                    </TablixRow>
+                  </TablixRows>
+                </TablixBody>
+                <TablixColumnHierarchy>
+                  <TablixMembers>
+                    <TablixMember />
+                  </TablixMembers>
+                </TablixColumnHierarchy>
+                <TablixRowHierarchy>
+                  <TablixMembers>
+                    <TablixMember>
+                      <Group Name="Details22" />
+                    </TablixMember>
+                  </TablixMembers>
+                </TablixRowHierarchy>
+                <DataSetName>DataSet1Relat2</DataSetName>
+                <Top>4.1286cm</Top>
+                <Left>4.40662cm</Left>
+                <Height>0.6cm</Height>
+                <Width>3.36055cm</Width>
+                <ZIndex>4</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                </Style>
+              </Tablix>
+              <Textbox Name="Textbox29">
+                <CanGrow>true</CanGrow>
+                <KeepTogether>true</KeepTogether>
+                <Paragraphs>
+                  <Paragraph>
+                    <TextRuns>
+                      <TextRun>
+                        <Value>REFERENTE:</Value>
+                        <Style>
+                          <FontSize>9pt</FontSize>
+                        </Style>
+                      </TextRun>
+                    </TextRuns>
+                    <Style />
+                  </Paragraph>
+                </Paragraphs>
+                <rd:DefaultName>Textbox10</rd:DefaultName>
+                <Top>4.84678cm</Top>
+                <Left>0.27912cm</Left>
+                <Height>0.6cm</Height>
+                <Width>3.4525cm</Width>
+                <ZIndex>5</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                  <PaddingLeft>2pt</PaddingLeft>
+                  <PaddingRight>2pt</PaddingRight>
+                  <PaddingTop>2pt</PaddingTop>
+                  <PaddingBottom>2pt</PaddingBottom>
+                </Style>
+              </Textbox>
+              <Tablix Name="Tablix24">
+                <TablixBody>
+                  <TablixColumns>
+                    <TablixColumn>
+                      <Width>15.795cm</Width>
+                    </TablixColumn>
+                  </TablixColumns>
+                  <TablixRows>
+                    <TablixRow>
+                      <Height>0.6cm</Height>
+                      <TablixCells>
+                        <TablixCell>
+                          <CellContents>
+                            <Textbox Name="Credito22">
+                              <KeepTogether>true</KeepTogether>
+                              <Paragraphs>
+                                <Paragraph>
+                                  <TextRuns>
+                                    <TextRun>
+                                      <Value>=Fields!Descricao.Value</Value>
+                                      <Style>
+                                        <FontSize>9pt</FontSize>
+                                        <Format>'R$' #,0.00</Format>
+                                      </Style>
+                                    </TextRun>
+                                  </TextRuns>
+                                  <Style />
+                                </Paragraph>
+                              </Paragraphs>
+                              <rd:DefaultName>Credito1</rd:DefaultName>
+                              <Style>
+                                <Border>
+                                  <Style>Solid</Style>
+                                </Border>
+                                <PaddingLeft>2pt</PaddingLeft>
+                                <PaddingRight>2pt</PaddingRight>
+                                <PaddingTop>2pt</PaddingTop>
+                                <PaddingBottom>2pt</PaddingBottom>
+                                <rd:FormatSymbolCulture>pt-BR</rd:FormatSymbolCulture>
+                              </Style>
+                            </Textbox>
+                          </CellContents>
+                        </TablixCell>
+                      </TablixCells>
+                    </TablixRow>
+                  </TablixRows>
+                </TablixBody>
+                <TablixColumnHierarchy>
+                  <TablixMembers>
+                    <TablixMember />
+                  </TablixMembers>
+                </TablixColumnHierarchy>
+                <TablixRowHierarchy>
+                  <TablixMembers>
+                    <TablixMember>
+                      <Group Name="Details23" />
+                    </TablixMember>
+                  </TablixMembers>
+                </TablixRowHierarchy>
+                <DataSetName>DataSet1Relat2</DataSetName>
+                <Top>5.52263cm</Top>
+                <Left>0.25266cm</Left>
+                <Height>0.6cm</Height>
+                <Width>15.795cm</Width>
+                <ZIndex>6</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                </Style>
+              </Tablix>
+              <Textbox Name="Textbox30">
+                <CanGrow>true</CanGrow>
+                <KeepTogether>true</KeepTogether>
+                <Paragraphs>
+                  <Paragraph>
+                    <TextRuns>
+                      <TextRun>
+                        <Value>RECEBI(EMOS) DE:</Value>
+                        <Style>
+                          <FontSize>9pt</FontSize>
+                        </Style>
+                      </TextRun>
+                    </TextRuns>
+                    <Style />
+                  </Paragraph>
+                </Paragraphs>
+                <rd:DefaultName>Textbox10</rd:DefaultName>
+                <Top>2.49226cm</Top>
+                <Left>0.25267cm</Left>
+                <Height>0.6cm</Height>
+                <Width>3.4525cm</Width>
+                <ZIndex>7</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                  <PaddingLeft>2pt</PaddingLeft>
+                  <PaddingRight>2pt</PaddingRight>
+                  <PaddingTop>2pt</PaddingTop>
+                  <PaddingBottom>2pt</PaddingBottom>
+                </Style>
+              </Textbox>
+              <Textbox Name="Textbox31">
+                <CanGrow>true</CanGrow>
+                <KeepTogether>true</KeepTogether>
+                <Paragraphs>
+                  <Paragraph>
+                    <TextRuns>
+                      <TextRun>
+                        <Value>ANGASIL COM REPR E TRANSPORTES  LTDA</Value>
+                        <Style>
+                          <FontStyle>Italic</FontStyle>
+                          <FontSize>9pt</FontSize>
+                          <FontWeight>Bold</FontWeight>
+                        </Style>
+                      </TextRun>
+                    </TextRuns>
+                    <Style />
+                  </Paragraph>
+                  <Paragraph>
+                    <TextRuns>
+                      <TextRun>
+                        <Value>RUA LOPES TROVÃO,49-BOM RETIRO-SÃO PAULO-SP</Value>
+                        <Style>
+                          <FontStyle>Italic</FontStyle>
+                          <FontSize>9pt</FontSize>
+                          <FontWeight>Bold</FontWeight>
+                        </Style>
+                      </TextRun>
+                    </TextRuns>
+                    <Style />
+                  </Paragraph>
+                  <Paragraph>
+                    <TextRuns>
+                      <TextRun>
+                        <Value>CNPJ-56.218.951/0002-77 IE-115.217.580.117</Value>
+                        <Style>
+                          <FontStyle>Italic</FontStyle>
+                          <FontSize>9pt</FontSize>
+                          <FontWeight>Bold</FontWeight>
+                        </Style>
+                      </TextRun>
+                    </TextRuns>
+                    <Style />
+                  </Paragraph>
+                </Paragraphs>
+                <rd:DefaultName>Textbox10</rd:DefaultName>
+                <Top>2.49226cm</Top>
+                <Left>4.33594cm</Left>
+                <Height>1.4282cm</Height>
+                <Width>9.52404cm</Width>
+                <ZIndex>8</ZIndex>
+                <Style>
+                  <Border>
+                    <Color>White</Color>
+                    <Style>None</Style>
+                  </Border>
+                  <PaddingLeft>2pt</PaddingLeft>
+                  <PaddingRight>2pt</PaddingRight>
+                  <PaddingTop>2pt</PaddingTop>
+                  <PaddingBottom>2pt</PaddingBottom>
+                </Style>
+              </Textbox>
+              <Textbox Name="Textbox32">
+                <CanGrow>true</CanGrow>
+                <KeepTogether>true</KeepTogether>
+                <Paragraphs>
+                  <Paragraph>
+                    <TextRuns>
+                      <TextRun>
+                        <Value>NOME:</Value>
+                        <Style>
+                          <FontSize>9pt</FontSize>
+                        </Style>
+                      </TextRun>
+                    </TextRuns>
+                    <Style />
+                  </Paragraph>
+                </Paragraphs>
+                <rd:DefaultName>Textbox10</rd:DefaultName>
+                <Top>6.58477cm</Top>
+                <Left>0.27912cm</Left>
+                <Height>0.6cm</Height>
+                <Width>3.4525cm</Width>
+                <ZIndex>9</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                  <PaddingLeft>2pt</PaddingLeft>
+                  <PaddingRight>2pt</PaddingRight>
+                  <PaddingTop>2pt</PaddingTop>
+                  <PaddingBottom>2pt</PaddingBottom>
+                </Style>
+              </Textbox>
+              <Tablix Name="Tablix25">
+                <TablixBody>
+                  <TablixColumns>
+                    <TablixColumn>
+                      <Width>10.10646cm</Width>
+                    </TablixColumn>
+                  </TablixColumns>
+                  <TablixRows>
+                    <TablixRow>
+                      <Height>0.6cm</Height>
+                      <TablixCells>
+                        <TablixCell>
+                          <CellContents>
+                            <Textbox Name="Credito23">
+                              <KeepTogether>true</KeepTogether>
+                              <Paragraphs>
+                                <Paragraph>
+                                  <TextRuns>
+                                    <TextRun>
+                                      <Value>=Fields!Nome_Cli.Value</Value>
+                                      <Style>
+                                        <FontSize>9pt</FontSize>
+                                        <Format>'R$' #,0.00</Format>
+                                      </Style>
+                                    </TextRun>
+                                  </TextRuns>
+                                  <Style />
+                                </Paragraph>
+                              </Paragraphs>
+                              <rd:DefaultName>Credito1</rd:DefaultName>
+                              <Style>
+                                <Border>
+                                  <Style>Solid</Style>
+                                </Border>
+                                <PaddingLeft>2pt</PaddingLeft>
+                                <PaddingRight>2pt</PaddingRight>
+                                <PaddingTop>2pt</PaddingTop>
+                                <PaddingBottom>2pt</PaddingBottom>
+                                <rd:FormatSymbolCulture>pt-BR</rd:FormatSymbolCulture>
+                              </Style>
+                            </Textbox>
+                          </CellContents>
+                        </TablixCell>
+                      </TablixCells>
+                    </TablixRow>
+                  </TablixRows>
+                </TablixBody>
+                <TablixColumnHierarchy>
+                  <TablixMembers>
+                    <TablixMember />
+                  </TablixMembers>
+                </TablixColumnHierarchy>
+                <TablixRowHierarchy>
+                  <TablixMembers>
+                    <TablixMember>
+                      <Group Name="Details24" />
+                    </TablixMember>
+                  </TablixMembers>
+                </TablixRowHierarchy>
+                <DataSetName>DataSet1Relat2</DataSetName>
+                <Top>7.26062cm</Top>
+                <Left>0.25266cm</Left>
+                <Height>0.6cm</Height>
+                <Width>10.10646cm</Width>
+                <ZIndex>10</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                </Style>
+              </Tablix>
+              <Textbox Name="Textbox33">
+                <CanGrow>true</CanGrow>
+                <KeepTogether>true</KeepTogether>
+                <Paragraphs>
+                  <Paragraph>
+                    <TextRuns>
+                      <TextRun>
+                        <Value>RG/IE:</Value>
+                        <Style>
+                          <FontSize>9pt</FontSize>
+                        </Style>
+                      </TextRun>
+                    </TextRuns>
+                    <Style />
+                  </Paragraph>
+                </Paragraphs>
+                <rd:DefaultName>Textbox10</rd:DefaultName>
+                <Top>8.26984cm</Top>
+                <Left>6.34062cm</Left>
+                <Height>0.6cm</Height>
+                <Width>3.4525cm</Width>
+                <ZIndex>11</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                  <PaddingLeft>2pt</PaddingLeft>
+                  <PaddingRight>2pt</PaddingRight>
+                  <PaddingTop>2pt</PaddingTop>
+                  <PaddingBottom>2pt</PaddingBottom>
+                </Style>
+              </Textbox>
+              <Tablix Name="Tablix26">
+                <TablixBody>
+                  <TablixColumns>
+                    <TablixColumn>
+                      <Width>4.0875cm</Width>
+                    </TablixColumn>
+                  </TablixColumns>
+                  <TablixRows>
+                    <TablixRow>
+                      <Height>0.6cm</Height>
+                      <TablixCells>
+                        <TablixCell>
+                          <CellContents>
+                            <Textbox Name="Credito24">
+                              <KeepTogether>true</KeepTogether>
+                              <Paragraphs>
+                                <Paragraph>
+                                  <TextRuns>
+                                    <TextRun>
+                                      <Value>=Fields!RG.Value</Value>
+                                      <Style>
+                                        <FontSize>9pt</FontSize>
+                                        <Format>'R$' #,0.00</Format>
+                                      </Style>
+                                    </TextRun>
+                                  </TextRuns>
+                                  <Style />
+                                </Paragraph>
+                              </Paragraphs>
+                              <rd:DefaultName>Credito1</rd:DefaultName>
+                              <Style>
+                                <Border>
+                                  <Style>Solid</Style>
+                                </Border>
+                                <PaddingLeft>2pt</PaddingLeft>
+                                <PaddingRight>2pt</PaddingRight>
+                                <PaddingTop>2pt</PaddingTop>
+                                <PaddingBottom>2pt</PaddingBottom>
+                                <rd:FormatSymbolCulture>pt-BR</rd:FormatSymbolCulture>
+                              </Style>
+                            </Textbox>
+                          </CellContents>
+                        </TablixCell>
+                      </TablixCells>
+                    </TablixRow>
+                  </TablixRows>
+                </TablixBody>
+                <TablixColumnHierarchy>
+                  <TablixMembers>
+                    <TablixMember />
+                  </TablixMembers>
+                </TablixColumnHierarchy>
+                <TablixRowHierarchy>
+                  <TablixMembers>
+                    <TablixMember>
+                      <Group Name="Details25" />
+                    </TablixMember>
+                  </TablixMembers>
+                </TablixRowHierarchy>
+                <DataSetName>DataSet1Relat2</DataSetName>
+                <Top>8.93687cm</Top>
+                <Left>6.29289cm</Left>
+                <Height>0.6cm</Height>
+                <Width>4.0875cm</Width>
+                <ZIndex>12</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                </Style>
+              </Tablix>
+              <Textbox Name="Textbox34">
+                <CanGrow>true</CanGrow>
+                <KeepTogether>true</KeepTogether>
+                <Paragraphs>
+                  <Paragraph>
+                    <TextRuns>
+                      <TextRun>
+                        <Value>CPF/CNPJ:</Value>
+                        <Style>
+                          <FontSize>9pt</FontSize>
+                        </Style>
+                      </TextRun>
+                    </TextRuns>
+                    <Style />
+                  </Paragraph>
+                </Paragraphs>
+                <rd:DefaultName>Textbox10</rd:DefaultName>
+                <Top>8.26984cm</Top>
+                <Left>0.30039cm</Left>
+                <Height>0.6cm</Height>
+                <Width>3.79228cm</Width>
+                <ZIndex>13</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                  <PaddingLeft>2pt</PaddingLeft>
+                  <PaddingRight>2pt</PaddingRight>
+                  <PaddingTop>2pt</PaddingTop>
+                  <PaddingBottom>2pt</PaddingBottom>
+                </Style>
+              </Textbox>
+              <Tablix Name="Tablix27">
+                <TablixBody>
+                  <TablixColumns>
+                    <TablixColumn>
+                      <Width>4.10978cm</Width>
+                    </TablixColumn>
+                  </TablixColumns>
+                  <TablixRows>
+                    <TablixRow>
+                      <Height>0.6cm</Height>
+                      <TablixCells>
+                        <TablixCell>
+                          <CellContents>
+                            <Textbox Name="Credito25">
+                              <KeepTogether>true</KeepTogether>
+                              <Paragraphs>
+                                <Paragraph>
+                                  <TextRuns>
+                                    <TextRun>
+                                      <Value>=Fields!CPF.Value</Value>
+                                      <Style>
+                                        <FontSize>9pt</FontSize>
+                                        <Format>'R$' #,0.00</Format>
+                                      </Style>
+                                    </TextRun>
+                                  </TextRuns>
+                                  <Style />
+                                </Paragraph>
+                              </Paragraphs>
+                              <rd:DefaultName>Credito1</rd:DefaultName>
+                              <Style>
+                                <Border>
+                                  <Style>Solid</Style>
+                                </Border>
+                                <PaddingLeft>2pt</PaddingLeft>
+                                <PaddingRight>2pt</PaddingRight>
+                                <PaddingTop>2pt</PaddingTop>
+                                <PaddingBottom>2pt</PaddingBottom>
+                                <rd:FormatSymbolCulture>pt-BR</rd:FormatSymbolCulture>
+                              </Style>
+                            </Textbox>
+                          </CellContents>
+                        </TablixCell>
+                      </TablixCells>
+                    </TablixRow>
+                  </TablixRows>
+                </TablixBody>
+                <TablixColumnHierarchy>
+                  <TablixMembers>
+                    <TablixMember />
+                  </TablixMembers>
+                </TablixColumnHierarchy>
+                <TablixRowHierarchy>
+                  <TablixMembers>
+                    <TablixMember>
+                      <Group Name="Details26" />
+                    </TablixMember>
+                  </TablixMembers>
+                </TablixRowHierarchy>
+                <DataSetName>DataSet1Relat2</DataSetName>
+                <Top>8.93687cm</Top>
+                <Left>0.25265cm</Left>
+                <Height>0.6cm</Height>
+                <Width>4.10978cm</Width>
+                <ZIndex>14</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                </Style>
+              </Tablix>
+              <Textbox Name="Textbox35">
+                <CanGrow>true</CanGrow>
+                <KeepTogether>true</KeepTogether>
+                <Paragraphs>
+                  <Paragraph>
+                    <TextRuns>
+                      <TextRun>
+                        <Value>DATA:</Value>
+                        <Style>
+                          <FontSize>9pt</FontSize>
+                        </Style>
+                      </TextRun>
+                    </TextRuns>
+                    <Style />
+                  </Paragraph>
+                </Paragraphs>
+                <rd:DefaultName>Textbox10</rd:DefaultName>
+                <Top>9.94403cm</Top>
+                <Left>0.3004cm</Left>
+                <Height>0.6cm</Height>
+                <Width>3.79228cm</Width>
+                <ZIndex>15</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                  <PaddingLeft>2pt</PaddingLeft>
+                  <PaddingRight>2pt</PaddingRight>
+                  <PaddingTop>2pt</PaddingTop>
+                  <PaddingBottom>2pt</PaddingBottom>
+                </Style>
+              </Textbox>
+              <Textbox Name="Textbox36">
+                <CanGrow>true</CanGrow>
+                <KeepTogether>true</KeepTogether>
+                <Paragraphs>
+                  <Paragraph>
+                    <TextRuns>
+                      <TextRun>
+                        <Value>OBS:</Value>
+                        <Style>
+                          <FontSize>9pt</FontSize>
+                        </Style>
+                      </TextRun>
+                    </TextRuns>
+                    <Style />
+                  </Paragraph>
+                </Paragraphs>
+                <rd:DefaultName>Textbox10</rd:DefaultName>
+                <Top>11.3557cm</Top>
+                <Left>0.3004cm</Left>
+                <Height>0.6cm</Height>
+                <Width>1.11998cm</Width>
+                <ZIndex>16</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                  <PaddingLeft>2pt</PaddingLeft>
+                  <PaddingRight>2pt</PaddingRight>
+                  <PaddingTop>2pt</PaddingTop>
+                  <PaddingBottom>2pt</PaddingBottom>
+                </Style>
+              </Textbox>
+              <Tablix Name="Tablix29">
+                <TablixBody>
+                  <TablixColumns>
+                    <TablixColumn>
+                      <Width>7.91978cm</Width>
+                    </TablixColumn>
+                  </TablixColumns>
+                  <TablixRows>
+                    <TablixRow>
+                      <Height>0.6cm</Height>
+                      <TablixCells>
+                        <TablixCell>
+                          <CellContents>
+                            <Textbox Name="Credito27">
+                              <KeepTogether>true</KeepTogether>
+                              <Paragraphs>
+                                <Paragraph>
+                                  <TextRuns>
+                                    <TextRun>
+                                      <Value>=Fields!Observacao.Value</Value>
+                                      <Style>
+                                        <FontSize>9pt</FontSize>
+                                        <Format>'R$' #,0.00</Format>
+                                      </Style>
+                                    </TextRun>
+                                  </TextRuns>
+                                  <Style />
+                                </Paragraph>
+                              </Paragraphs>
+                              <rd:DefaultName>Credito1</rd:DefaultName>
+                              <Style>
+                                <Border>
+                                  <Style>None</Style>
+                                </Border>
+                                <PaddingLeft>2pt</PaddingLeft>
+                                <PaddingRight>2pt</PaddingRight>
+                                <PaddingTop>2pt</PaddingTop>
+                                <PaddingBottom>2pt</PaddingBottom>
+                                <rd:FormatSymbolCulture>pt-BR</rd:FormatSymbolCulture>
+                              </Style>
+                            </Textbox>
+                          </CellContents>
+                        </TablixCell>
+                      </TablixCells>
+                    </TablixRow>
+                  </TablixRows>
+                </TablixBody>
+                <TablixColumnHierarchy>
+                  <TablixMembers>
+                    <TablixMember />
+                  </TablixMembers>
+                </TablixColumnHierarchy>
+                <TablixRowHierarchy>
+                  <TablixMembers>
+                    <TablixMember>
+                      <Group Name="Details28" />
+                    </TablixMember>
+                  </TablixMembers>
+                </TablixRowHierarchy>
+                <DataSetName>DataSet1Relat2</DataSetName>
+                <Top>11.3557cm</Top>
+                <Left>1.22283cm</Left>
+                <Height>0.6cm</Height>
+                <Width>7.91978cm</Width>
+                <ZIndex>17</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                </Style>
+              </Tablix>
+              <Tablix Name="Tablix30">
+                <TablixBody>
+                  <TablixColumns>
+                    <TablixColumn>
+                      <Width>5.83035cm</Width>
+                    </TablixColumn>
+                  </TablixColumns>
+                  <TablixRows>
+                    <TablixRow>
+                      <Height>0.6cm</Height>
+                      <TablixCells>
+                        <TablixCell>
+                          <CellContents>
+                            <Textbox Name="Credito28">
+                              <CanGrow>true</CanGrow>
+                              <KeepTogether>true</KeepTogether>
+                              <Paragraphs>
+                                <Paragraph>
+                                  <TextRuns>
+                                    <TextRun>
+                                      <Value />
+                                      <Style>
+                                        <Format>'R$' #,0.00</Format>
+                                      </Style>
+                                    </TextRun>
+                                  </TextRuns>
+                                  <Style />
+                                </Paragraph>
+                              </Paragraphs>
+                              <rd:DefaultName>Credito1</rd:DefaultName>
+                              <Style>
+                                <Border>
+                                  <Color>White</Color>
+                                  <Style>Solid</Style>
+                                </Border>
+                                <BottomBorder>
+                                  <Color>Black</Color>
+                                </BottomBorder>
+                                <PaddingLeft>2pt</PaddingLeft>
+                                <PaddingRight>2pt</PaddingRight>
+                                <PaddingTop>2pt</PaddingTop>
+                                <PaddingBottom>2pt</PaddingBottom>
+                                <rd:FormatSymbolCulture>pt-BR</rd:FormatSymbolCulture>
+                              </Style>
+                            </Textbox>
+                          </CellContents>
+                        </TablixCell>
+                      </TablixCells>
+                    </TablixRow>
+                  </TablixRows>
+                </TablixBody>
+                <TablixColumnHierarchy>
+                  <TablixMembers>
+                    <TablixMember />
+                  </TablixMembers>
+                </TablixColumnHierarchy>
+                <TablixRowHierarchy>
+                  <TablixMembers>
+                    <TablixMember>
+                      <Group Name="Details29" />
+                    </TablixMember>
+                  </TablixMembers>
+                </TablixRowHierarchy>
+                <DataSetName>DataSet1Relat2</DataSetName>
+                <Top>10.75217cm</Top>
+                <Left>9.89982cm</Left>
+                <Height>0.6cm</Height>
+                <Width>5.83035cm</Width>
+                <ZIndex>18</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                </Style>
+              </Tablix>
+              <Tablix Name="Tablix31">
+                <TablixBody>
+                  <TablixColumns>
+                    <TablixColumn>
+                      <Width>5.83035cm</Width>
+                    </TablixColumn>
+                  </TablixColumns>
+                  <TablixRows>
+                    <TablixRow>
+                      <Height>0.6cm</Height>
+                      <TablixCells>
+                        <TablixCell>
+                          <CellContents>
+                            <Textbox Name="Credito29">
+                              <KeepTogether>true</KeepTogether>
+                              <Paragraphs>
+                                <Paragraph>
+                                  <TextRuns>
+                                    <TextRun>
+                                      <Value>=Fields!Nome_Cli.Value</Value>
+                                      <Style>
+                                        <FontSize>9pt</FontSize>
+                                        <Format>'R$' #,0.00</Format>
+                                      </Style>
+                                    </TextRun>
+                                  </TextRuns>
+                                  <Style>
+                                    <TextAlign>Center</TextAlign>
+                                  </Style>
+                                </Paragraph>
+                              </Paragraphs>
+                              <rd:DefaultName>Credito1</rd:DefaultName>
+                              <Style>
+                                <Border>
+                                  <Color>White</Color>
+                                  <Style>Solid</Style>
+                                </Border>
+                                <PaddingLeft>2pt</PaddingLeft>
+                                <PaddingRight>2pt</PaddingRight>
+                                <PaddingTop>2pt</PaddingTop>
+                                <PaddingBottom>2pt</PaddingBottom>
+                                <rd:FormatSymbolCulture>pt-BR</rd:FormatSymbolCulture>
+                              </Style>
+                            </Textbox>
+                          </CellContents>
+                        </TablixCell>
+                      </TablixCells>
+                    </TablixRow>
+                  </TablixRows>
+                </TablixBody>
+                <TablixColumnHierarchy>
+                  <TablixMembers>
+                    <TablixMember />
+                  </TablixMembers>
+                </TablixColumnHierarchy>
+                <TablixRowHierarchy>
+                  <TablixMembers>
+                    <TablixMember>
+                      <Group Name="Details30" />
+                    </TablixMember>
+                  </TablixMembers>
+                </TablixRowHierarchy>
+                <DataSetName>DataSet1Relat2</DataSetName>
+                <Top>11.38745cm</Top>
+                <Left>9.89981cm</Left>
+                <Height>0.6cm</Height>
+                <Width>5.83035cm</Width>
+                <ZIndex>19</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                </Style>
+              </Tablix>
+              <Tablix Name="Tablix32">
+                <TablixBody>
+                  <TablixColumns>
+                    <TablixColumn>
+                      <Width>0.68115cm</Width>
+                    </TablixColumn>
+                    <TablixColumn>
+                      <Width>1.39553cm</Width>
+                    </TablixColumn>
+                  </TablixColumns>
+                  <TablixRows>
+                    <TablixRow>
+                      <Height>1.28819cm</Height>
+                      <TablixCells>
+                        <TablixCell>
+                          <CellContents>
+                            <Textbox Name="Textbox10">
+                              <CanGrow>true</CanGrow>
+                              <KeepTogether>true</KeepTogether>
+                              <Paragraphs>
+                                <Paragraph>
+                                  <TextRuns>
+                                    <TextRun>
+                                      <Value>Nº</Value>
+                                      <Style>
+                                        <FontSize>9pt</FontSize>
+                                        <FontWeight>Bold</FontWeight>
+                                      </Style>
+                                    </TextRun>
+                                  </TextRuns>
+                                  <Style />
+                                </Paragraph>
+                              </Paragraphs>
+                              <rd:DefaultName>Textbox7</rd:DefaultName>
+                              <Style>
+                                <Border>
+                                  <Style>Solid</Style>
+                                </Border>
+                                <RightBorder>
+                                  <Color>White</Color>
+                                </RightBorder>
+                                <VerticalAlign>Middle</VerticalAlign>
+                                <PaddingLeft>2pt</PaddingLeft>
+                                <PaddingRight>2pt</PaddingRight>
+                                <PaddingTop>2pt</PaddingTop>
+                                <PaddingBottom>2pt</PaddingBottom>
+                              </Style>
+                            </Textbox>
+                          </CellContents>
+                        </TablixCell>
+                        <TablixCell>
+                          <CellContents>
+                            <Textbox Name="Codigo3">
+                              <CanGrow>true</CanGrow>
+                              <KeepTogether>true</KeepTogether>
+                              <Paragraphs>
+                                <Paragraph>
+                                  <TextRuns>
+                                    <TextRun>
+                                      <Value>=Fields!Cod_ContaQuitada.Value</Value>
+                                      <Style>
+                                        <FontSize>12pt</FontSize>
+                                        <FontWeight>Bold</FontWeight>
+                                      </Style>
+                                    </TextRun>
+                                  </TextRuns>
+                                  <Style />
+                                </Paragraph>
+                              </Paragraphs>
+                              <rd:DefaultName>Codigo</rd:DefaultName>
+                              <Style>
+                                <Border>
+                                  <Style>Solid</Style>
+                                </Border>
+                                <LeftBorder>
+                                  <Color>White</Color>
+                                </LeftBorder>
+                                <VerticalAlign>Middle</VerticalAlign>
+                                <PaddingLeft>2pt</PaddingLeft>
+                                <PaddingRight>2pt</PaddingRight>
+                                <PaddingTop>2pt</PaddingTop>
+                                <PaddingBottom>2pt</PaddingBottom>
+                              </Style>
+                            </Textbox>
+                          </CellContents>
+                        </TablixCell>
+                      </TablixCells>
+                    </TablixRow>
+                  </TablixRows>
+                </TablixBody>
+                <TablixColumnHierarchy>
+                  <TablixMembers>
+                    <TablixMember />
+                    <TablixMember />
+                  </TablixMembers>
+                </TablixColumnHierarchy>
+                <TablixRowHierarchy>
+                  <TablixMembers>
+                    <TablixMember>
+                      <Group Name="Details31" />
+                    </TablixMember>
+                  </TablixMembers>
+                </TablixRowHierarchy>
+                <DataSetName>DataSet1Relat2</DataSetName>
+                <Top>0.09812cm</Top>
+                <Left>13.97098cm</Left>
+                <Height>1.28819cm</Height>
+                <Width>2.07668cm</Width>
+                <ZIndex>20</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                </Style>
+              </Tablix>
+              <Tablix Name="Tablix28">
+                <TablixBody>
+                  <TablixColumns>
+                    <TablixColumn>
+                      <Width>3.81355cm</Width>
+                    </TablixColumn>
+                  </TablixColumns>
+                  <TablixRows>
+                    <TablixRow>
+                      <Height>0.6cm</Height>
+                      <TablixCells>
+                        <TablixCell>
+                          <CellContents>
+                            <Textbox Name="Data2">
+                              <CanGrow>true</CanGrow>
+                              <KeepTogether>true</KeepTogether>
+                              <Paragraphs>
+                                <Paragraph>
+                                  <TextRuns>
+                                    <TextRun>
+                                      <Value>=Fields!Dat_Baixa.Value</Value>
+                                      <Style>
+                                        <FontSize>9pt</FontSize>
+                                        <Format>d</Format>
+                                      </Style>
+                                    </TextRun>
+                                  </TextRuns>
+                                  <Style>
+                                    <TextAlign>Left</TextAlign>
+                                  </Style>
+                                </Paragraph>
+                              </Paragraphs>
+                              <rd:DefaultName>Data</rd:DefaultName>
+                              <Style>
+                                <Border>
+                                  <Style>Solid</Style>
+                                </Border>
+                                <PaddingLeft>2pt</PaddingLeft>
+                                <PaddingRight>2pt</PaddingRight>
+                                <PaddingTop>2pt</PaddingTop>
+                                <PaddingBottom>2pt</PaddingBottom>
+                              </Style>
+                            </Textbox>
+                          </CellContents>
+                        </TablixCell>
+                      </TablixCells>
+                    </TablixRow>
+                  </TablixRows>
+                </TablixBody>
+                <TablixColumnHierarchy>
+                  <TablixMembers>
+                    <TablixMember />
+                  </TablixMembers>
+                </TablixColumnHierarchy>
+                <TablixRowHierarchy>
+                  <TablixMembers>
+                    <TablixMember>
+                      <Group Name="Details27" />
+                    </TablixMember>
+                  </TablixMembers>
+                </TablixRowHierarchy>
+                <DataSetName>DataSet1Relat2</DataSetName>
+                <Top>10.57578cm</Top>
+                <Left>0.27394cm</Left>
+                <Height>0.6cm</Height>
+                <Width>3.81355cm</Width>
+                <ZIndex>21</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                </Style>
+              </Tablix>
+              <Textbox Name="Textbox39">
+                <CanGrow>true</CanGrow>
+                <KeepTogether>true</KeepTogether>
+                <Paragraphs>
+                  <Paragraph>
+                    <TextRuns>
+                      <TextRun>
+                        <Value>Nº CHEQUE:</Value>
+                        <Style>
+                          <FontSize>9pt</FontSize>
+                        </Style>
+                      </TextRun>
+                    </TextRuns>
+                    <Style />
+                  </Paragraph>
+                </Paragraphs>
+                <rd:DefaultName>Textbox10</rd:DefaultName>
+                <Top>4.1286cm</Top>
+                <Left>8.34084cm</Left>
+                <Height>0.6cm</Height>
+                <Width>2.03958cm</Width>
+                <ZIndex>22</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                  <PaddingLeft>2pt</PaddingLeft>
+                  <PaddingRight>2pt</PaddingRight>
+                  <PaddingTop>2pt</PaddingTop>
+                  <PaddingBottom>2pt</PaddingBottom>
+                </Style>
+              </Textbox>
+              <Tablix Name="Tablix35">
+                <TablixBody>
+                  <TablixColumns>
+                    <TablixColumn>
+                      <Width>3.36055cm</Width>
+                    </TablixColumn>
+                  </TablixColumns>
+                  <TablixRows>
+                    <TablixRow>
+                      <Height>0.6cm</Height>
+                      <TablixCells>
+                        <TablixCell>
+                          <CellContents>
+                            <Textbox Name="Credito31">
+                              <KeepTogether>true</KeepTogether>
+                              <Paragraphs>
+                                <Paragraph>
+                                  <TextRuns>
+                                    <TextRun>
+                                      <Value>=Fields!Num_Cheque.Value</Value>
+                                      <Style>
+                                        <FontSize>9pt</FontSize>
+                                      </Style>
+                                    </TextRun>
+                                  </TextRuns>
+                                  <Style>
+                                    <TextAlign>Center</TextAlign>
+                                  </Style>
+                                </Paragraph>
+                              </Paragraphs>
+                              <rd:DefaultName>Credito1</rd:DefaultName>
+                              <Style>
+                                <Border>
+                                  <Style>Solid</Style>
+                                </Border>
+                                <PaddingLeft>2pt</PaddingLeft>
+                                <PaddingRight>2pt</PaddingRight>
+                                <PaddingTop>2pt</PaddingTop>
+                                <PaddingBottom>2pt</PaddingBottom>
+                              </Style>
+                            </Textbox>
+                          </CellContents>
+                        </TablixCell>
+                      </TablixCells>
+                    </TablixRow>
+                  </TablixRows>
+                </TablixBody>
+                <TablixColumnHierarchy>
+                  <TablixMembers>
+                    <TablixMember />
+                  </TablixMembers>
+                </TablixColumnHierarchy>
+                <TablixRowHierarchy>
+                  <TablixMembers>
+                    <TablixMember>
+                      <Group Name="Details34" />
+                    </TablixMember>
+                  </TablixMembers>
+                </TablixRowHierarchy>
+                <DataSetName>DataSet1Relat2</DataSetName>
+                <Top>4.1286cm</Top>
+                <Left>10.6317cm</Left>
+                <Height>0.6cm</Height>
+                <Width>3.36055cm</Width>
+                <ZIndex>23</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                </Style>
+              </Tablix>
+            </ReportItems>
+            <KeepTogether>true</KeepTogether>
+            <Top>0.20026cm</Top>
+            <Left>0.10068cm</Left>
+            <Height>12.28132cm</Height>
+            <Width>16.16542cm</Width>
+            <Style>
+              <Border>
+                <Style>Solid</Style>
+              </Border>
+            </Style>
+          </Rectangle>
+        </ReportItems>
+        <Height>5.01369in</Height>
+        <Style />
+      </Body>
+      <Width>6.50892in</Width>
+      <Page>
+        <PageHeight>29.7cm</PageHeight>
+        <PageWidth>21cm</PageWidth>
+        <LeftMargin>2cm</LeftMargin>
+        <RightMargin>2cm</RightMargin>
+        <TopMargin>2cm</TopMargin>
+        <BottomMargin>2cm</BottomMargin>
+        <ColumnSpacing>0.13cm</ColumnSpacing>
+        <Style />
+      </Page>
+    </ReportSection>
+  </ReportSections>
+  <ReportParametersLayout>
+    <GridLayoutDefinition>
+      <NumberOfColumns>4</NumberOfColumns>
+      <NumberOfRows>2</NumberOfRows>
+    </GridLayoutDefinition>
+  </ReportParametersLayout>
+  <EmbeddedImages>
+    <EmbeddedImage Name="logo_ANGASIL">
+      <MIMEType>image/jpeg</MIMEType>
+      <ImageData>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</ImageData>
+    </EmbeddedImage>
+  </EmbeddedImages>
+  <rd:ReportUnitType>Cm</rd:ReportUnitType>
+  <rd:ReportID>7c86703b-bd8b-4c47-a845-09836b925d2a</rd:ReportID>
+</Report>
